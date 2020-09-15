@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P5PB0ql6xXW3hcsaklGfDrUn98L/lU8Tzw82ioG8xWCHLUKwyxMlNI7guTKKVtkDtkhPQcygLV5zg3H1UBsvYw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\jgcga\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\Buffaria\\Buffaria.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jgcga\\.nuget\\packages\\tmodloader.codeassist\\0.1.1\\tmodloader.codeassist.0.1.1.nupkg.sha512"
+  ],
+  "logs": []
+}

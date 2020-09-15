@@ -1,0 +1,4 @@
+C:\Users\jgcga\Documents\My Games\Terraria\ModLoader\Mod Sources\Buffaria\obj\Debug\net45\Buffaria.csprojAssemblyReference.cache
+C:\Users\jgcga\Documents\My Games\Terraria\ModLoader\Mod Sources\Buffaria\obj\Debug\net45\Buffaria.csproj.CoreCompileInputs.cache
+C:\Users\jgcga\Documents\My Games\Terraria\ModLoader\Mod Sources\Buffaria\obj\Debug\net45\Buffaria.AssemblyInfoInputs.cache
+C:\Users\jgcga\Documents\My Games\Terraria\ModLoader\Mod Sources\Buffaria\obj\Debug\net45\Buffaria.AssemblyInfo.cs

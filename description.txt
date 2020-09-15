@@ -1,0 +1,15 @@
+Buffaria is a mod all about potions! The main reason for this mod to exist is to add more variety and combinations of the current vanilla potions. Current additions other than potions include phials, which are like flasks for melee weapons, but can be applied to all weapons.
+
+Here is the mod's Discord Server, where you can add suggestions for potions, or even help with some sprites! https://discord.gg/g3kEcWy
+
+v1.0 Changelog:
+Added Fire Phial - Adds fire to all weapons
+Added Frostburn Phial - Adds frostburn to all weapons
+Added Ichor Phial - Adds ichor to all weapons
+Added Poison Phial - Adds poison to all weapons
+Added Venom Phial - Adds venom to all weapons
+Added Multi Phial (Combination of all current phials)
+
+Added Delirious Potion - increases all attack, mining, and building speeds
+Added Double Regeneration Potion - Combination of regen and mana regen potions
+Added Steadfast Potion - Upgrade to ironskin potion, adds 8 defense and knockback resistance

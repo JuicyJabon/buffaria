@@ -1,0 +1,3 @@
+displayName = Buffaria, A Potions Mod
+author = Jabon
+version = 1.0
