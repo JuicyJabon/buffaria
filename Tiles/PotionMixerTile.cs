@@ -22,7 +22,7 @@ namespace Buffaria.Tiles
             ModTranslation name = CreateMapEntryName();
             name.SetDefault("Potion Mixer");
             AddMapEntry(new Color(200, 200, 200), name);
-            adjTiles = new int[] { TileID.WorkBenches};
+            adjTiles = new int[] { TileID.Bottles};
             disableSmartCursor = true;
         }
 
