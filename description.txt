@@ -1,6 +1,36 @@
 Buffaria is a mod all about potions! The main reason for this mod to exist is to add more variety and combinations of the current vanilla potions. Current additions other than potions include phials, which are like flasks for melee weapons, but can be applied to all weapons.
+Credits are at the bottom!
 
 Here is the mod's Discord Server, where you can add suggestions for potions, or even help with some sprites! https://discord.gg/g3kEcWy
+
+v1.3 Changelog:
+Added Shadow Potion - Increases ranged damage and give a chance to dodge attacks
+Added Burning Potion - Lava immunity and you take less damage from cold sources
+Added Mermaid Potion - Effects of gills, waterwalking, and flipper
+Added Creation Potion - Effects of builder and mining
+Added Archer Potion - Effects of archery and ammo reservation
+Added Crate Fishing Potion - Effects of crate, fishing, and sonar potions
+Added Pro Fishing Potion - Effects of fishing and sonar
+Added Mage Potion - Effects of mana regen and magic power
+
+v1.2 Changelog:
+Added Nebula Elixir - Increases magic damage
+Added Solar Elixir - Increases melee damage
+Added Stardust Elixir - Increases summon damage
+Added Vortex Elixir - Increases ranged damage
+Added Elixir of the Moon - Increases all damage (combination of all Elixirs)
+
+Added Brightlight Potion - Increases night vision and shine radius
+Added Seeing Eye Potion - Effects of spelunker, hunter, and dangersense
+Added Shock Potion - Shocks enemies when they touch you
+
+Updated Survival Potion to include thorns potion in the recipe and effects
+
+v1.1 Changelog:
+Updated all textures
+
+Added Raging Inferno Potion - Effects of rage and wrath, sets enemies on fire when they touch you
+Added Survival Potion - effects of lifeforce, heartreach, and endurance
 
 v1.0 Changelog:
 Added Fire Phial - Adds fire to all weapons
@@ -13,3 +43,7 @@ Added Multi Phial (Combination of all current phials)
 Added Delirious Potion - increases all attack, mining, and building speeds
 Added Double Regeneration Potion - Combination of regen and mana regen potions
 Added Steadfast Potion - Upgrade to ironskin potion, adds 8 defense and knockback resistance
+
+Added Potion Mixer - A place to combine your potions
+
+Credit to u/Uniquepotatoes for the texture ispiration. The textures are similar but not copies. This is because I really loved their textures, and wanted to have a similar style to them! (luckily I was able to find their post on reddit in r/Terraria)
