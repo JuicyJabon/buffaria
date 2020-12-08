@@ -1,49 +1,27 @@
-Buffaria is a mod all about potions! The main reason for this mod to exist is to add more variety and combinations of the current vanilla potions. Current additions other than potions include phials, which are like flasks for melee weapons, but can be applied to all weapons.
+Huge thanks to the youtuber Obsoleek, he is the first to showcase the Buffaria mod on his discord server! Make sure you are subscribed to him, he is a great person!
+For a short period of time, his channel will be the homepage for this mod, to show my thanks!
+
+Buffaria is a mod all about potions! The main reason for this mod to exist is to add more variety and combinations of the current vanilla potions. Current additions include phials, which are like flasks for melee weapons, but can be applied to all weapons. Other things are a secret!
+
+*NOTICE*
+I have kept the source code and sprites open source, because I want to help people create their own mods. Please do not blatantly copy my code and sprites, I have spent many hours working on them. I just want to be of help to those who are less experienced with creating mods.
+
 Credits are at the bottom!
 
-Here is the mod's Discord Server, where you can add suggestions for potions, or even help with some sprites! https://discord.gg/g3kEcWy
+v2.1.2.2
+Changed Potion Mixer texture, recipe, and size
+Changed some other textures that needed an update
 
-v1.3 Changelog:
-Added Shadow Potion - Increases ranged damage and give a chance to dodge attacks
-Added Burning Potion - Lava immunity and you take less damage from cold sources
-Added Mermaid Potion - Effects of gills, waterwalking, and flipper
-Added Creation Potion - Effects of builder and mining
-Added Archer Potion - Effects of archery and ammo reservation
-Added Crate Fishing Potion - Effects of crate, fishing, and sonar potions
-Added Pro Fishing Potion - Effects of fishing and sonar
-Added Mage Potion - Effects of mana regen and magic power
+Added Cursed Flames immunity potion
+Added Electrified immunity potion
+Added Frostburn immunity potion
+Added Ichor immunity potion
+Added Venom immunity potion
+Added Wind immunity potion
+Added Nullify Potion
 
-v1.2 Changelog:
-Added Nebula Elixir - Increases magic damage
-Added Solar Elixir - Increases melee damage
-Added Stardust Elixir - Increases summon damage
-Added Vortex Elixir - Increases ranged damage
-Added Elixir of the Moon - Increases all damage (combination of all Elixirs)
-
-Added Brightlight Potion - Increases night vision and shine radius
-Added Seeing Eye Potion - Effects of spelunker, hunter, and dangersense
-Added Shock Potion - Shocks enemies when they touch you
-
-Updated Survival Potion to include thorns potion in the recipe and effects
-
-v1.1 Changelog:
-Updated all textures
-
-Added Raging Inferno Potion - Effects of rage and wrath, sets enemies on fire when they touch you
-Added Survival Potion - effects of lifeforce, heartreach, and endurance
-
-v1.0 Changelog:
-Added Fire Phial - Adds fire to all weapons
-Added Frostburn Phial - Adds frostburn to all weapons
-Added Ichor Phial - Adds ichor to all weapons
-Added Poison Phial - Adds poison to all weapons
-Added Venom Phial - Adds venom to all weapons
-Added Multi Phial (Combination of all current phials)
-
-Added Delirious Potion - increases all attack, mining, and building speeds
-Added Double Regeneration Potion - Combination of regen and mana regen potions
-Added Steadfast Potion - Upgrade to ironskin potion, adds 8 defense and knockback resistance
-
-Added Potion Mixer - A place to combine your potions
-
-Credit to u/Uniquepotatoes for the texture ispiration. The textures are similar but not copies. This is because I really loved their textures, and wanted to have a similar style to them! (luckily I was able to find their post on reddit in r/Terraria)
+CREDITS:
+Obsoleek - For displaying the mod on his Discord server!
+Unboxing Video - The Chaos Potion (Discord)
+Unboxing Video - Suffocation Potion (Discord)
+u/Uniquepotatoes - Texture inspiration. The textures are similar but not copies. This is because I really loved their textures, and wanted to have a similar style to them! (Reddit)
