@@ -1,7 +1,5 @@
-﻿using Terraria;
-using Terraria.ID;
+﻿using Terraria.ID;
 using Terraria.ModLoader;
-using Microsoft.Xna.Framework;
 
 namespace Buffaria.Tiles
 {
@@ -15,8 +13,8 @@ namespace Buffaria.Tiles
 
         public override void SetDefaults()
         {
-            item.width = 16;
-            item.height = 16;
+            item.width = 32;
+            item.height = 32;
             item.maxStack = 999;
             item.useTime = 14;
             item.useAnimation = 17;
@@ -31,10 +29,8 @@ namespace Buffaria.Tiles
         public override void AddRecipes()
         {
             ModRecipe recipe = new ModRecipe(mod);
-            recipe.AddIngredient(ItemID.Bottle);
-            recipe.AddIngredient(ItemID.AlchemyTable);
-            recipe.AddIngredient(ItemID.SoulofNight, 15);
-            recipe.AddIngredient(ItemID.SoulofLight, 15);
+            recipe.AddIngredient(ItemID.Wood, 50);
+            recipe.AddIngredient(ItemID.IronBar, 5);
             recipe.SetResult(this);
             recipe.AddRecipe();
         }

@@ -1,8 +1,8 @@
-﻿using Terraria;
+﻿using Microsoft.Xna.Framework;
+using Terraria;
 using Terraria.ID;
 using Terraria.ModLoader;
 using Terraria.ObjectData;
-using Microsoft.Xna.Framework;
 
 namespace Buffaria.Tiles
 {
@@ -15,20 +15,20 @@ namespace Buffaria.Tiles
             Main.tileFrameImportant[Type] = true;
             Main.tileNoAttach[Type] = true;
 
-            TileObjectData.newTile.CopyFrom(TileObjectData.Style2x1);
-            TileObjectData.newTile.CoordinateHeights = new[] { 18 };
+            TileObjectData.newTile.CopyFrom(TileObjectData.Style2x2);
+            TileObjectData.newTile.CoordinateHeights = new[] { 16, 16 };
             TileObjectData.addTile(Type);
 
             ModTranslation name = CreateMapEntryName();
             name.SetDefault("Potion Mixer");
             AddMapEntry(new Color(200, 200, 200), name);
-            adjTiles = new int[] { TileID.Bottles};
+            adjTiles = new int[] { TileID.Bottles };
             disableSmartCursor = true;
         }
 
         public override void KillMultiTile(int i, int j, int frameX, int frameY)
         {
-            Item.NewItem(i * 16, j * 16, 32, 16, mod.ItemType("PotionMixer"));
+            Item.NewItem(i * 16, j * 16, 32, 32, mod.ItemType("PotionMixer"));
         }
     }
 }
