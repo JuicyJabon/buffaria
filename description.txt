@@ -8,17 +8,13 @@ I have kept the source code and sprites open source, because I want to help peop
 
 Credits are at the bottom!
 
-v2.1.2.2
-Changed Potion Mixer texture, recipe, and size
-Changed some other textures that needed an update
+v2.2.4.2
+Changed sprites for Potion Fuser and Potion  Mixer again
+Adde Hand Sanitizer
 
-Added Cursed Flames immunity potion
-Added Electrified immunity potion
-Added Frostburn immunity potion
-Added Ichor immunity potion
-Added Venom immunity potion
-Added Wind immunity potion
-Added Nullify Potion
+v2.2.3.2
+Added Potion Fuser which saves ingredients occasionally
+(The Potion Fuser is a combination of the Potion Mixer and the Alchemy Station)
 
 CREDITS:
 Obsoleek - For displaying the mod on his Discord server!

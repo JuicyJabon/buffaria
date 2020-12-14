@@ -1,4 +1,4 @@
 displayName = Buffaria, A Potions Mod
 homepage = https://www.youtube.com/channel/UCX9oidM001XxWra1Ur-wL8w
 author = Jabon
-version = 2.1.2.2
+version = 2.2.4.2
